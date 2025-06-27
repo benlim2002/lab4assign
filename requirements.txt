@@ -1,0 +1,7 @@
+networkx
+requests
+matplotlib
+pandas
+biopython
+scikit-learn
+pymongo
