@@ -5,3 +5,4 @@ pandas
 biopython
 scikit-learn
 pymongo
+ollama
